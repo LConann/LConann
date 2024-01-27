@@ -1,5 +1,11 @@
-<h3 align="left">Hello👋! My name is Lucas Chan, a student from HKUST CS</h3>
-
+<div>
+  <h3 style="horizontal-align:middle;">Hello👋! My name is Lucas Chan, a student from HKUST CS &nbsp &nbsp
+    <a href="https://www.linkedin.com/in/lucas-chan-578039267" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    </a>
+  </h3>
+</div>
+  
 ###
 
 <div align="center">
@@ -10,11 +16,9 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/LConann/Zelda-Multiplayer-Game/public/images/Register_page.png"  />
-
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
@@ -40,10 +44,11 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/lucas-chan-578039267" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<div align="center">
+  <hr />
+  <strong>
+    A self-driven, collaborative and curious student who is obsessed with AI such as federated learning and natural language processing.
+  </strong>
 </div>
 
 ###
